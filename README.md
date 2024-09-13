@@ -12,3 +12,4 @@ Welcome to the Coding Best Practices guide! This document provides essential gui
 - [SQL best practices](SQL.md)
 - [TypeORM best practices](TypeORM.md)
 - [Prettier guide](Prettier.md)
+- [Custom CSS styling guide](CustomStyling.md)
