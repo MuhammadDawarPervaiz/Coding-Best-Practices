@@ -11,3 +11,4 @@ Welcome to the Coding Best Practices guide! This document provides essential gui
 - [Node JS best practices](Nodejs.md)
 - [SQL best practices](SQL.md)
 - [TypeORM best practices](TypeORM.md)
+- [Prettier guide](Prettier.md)
